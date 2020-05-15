@@ -1,2 +1,3 @@
-Find multiple quest items in corners of the zone
+Find multiple quest items in corners of the zone, then TP to town then to Ruined Square for next stop (3) to fight Kitava
 CRAFT - Accuracy
+Recommend to do normal lab before fighting Kitava

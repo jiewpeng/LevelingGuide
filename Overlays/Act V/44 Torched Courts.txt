@@ -1,1 +1,1 @@
-Loop around counter clockwise
+Loop around counter clockwise (down-right first)

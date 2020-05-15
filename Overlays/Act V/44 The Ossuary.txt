@@ -1,2 +1,3 @@
 Loop around clockwise
 CRAFT - Physical damage
+TP to Ruined Square for next stop (2)

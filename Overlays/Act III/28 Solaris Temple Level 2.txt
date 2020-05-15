@@ -1,2 +1,3 @@
 Follow the carpet but can have dead ends
-R,CRAFT - Cold damage
+R,CRAFT - Cold damage (in side room beside Diala)
+After Solaris, go Sewers to unblock
